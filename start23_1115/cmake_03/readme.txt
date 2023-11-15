@@ -1,0 +1,2 @@
+命令：aux_source_directory(dir var)
+作用：可以将dir目录下所有的源文件存储在var变量中
